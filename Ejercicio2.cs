@@ -1,5 +1,3 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
 string usuario, contrasena;
 bool comprobacion1, comprobacion2;
 Console.WriteLine("------------------------------------------------");
